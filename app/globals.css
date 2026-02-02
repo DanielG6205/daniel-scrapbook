@@ -380,8 +380,13 @@ img {
   position: relative;
   padding-left: 0;
   margin: 3rem auto;
-  max-width: 650px;
+  max-width: min(1200px, 96vw);
   text-align: center;
+}
+
+.event p {
+  max-width: none;
+  width: 50%;
 }
 
 /* =========================
@@ -417,6 +422,7 @@ img {
   width: 72px;
   height: 72px;
   border-radius: 14px;
+  overflow: hidden;
   background: linear-gradient(
     135deg,
     rgba(192, 106, 59, 0.7),
@@ -428,6 +434,13 @@ img {
   text-transform: uppercase;
   display: grid;
   place-items: center;
+}
+
+.playlist-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 .playlist-title {

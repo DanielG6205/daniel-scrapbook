@@ -8,22 +8,22 @@ export default function Home() {
 
       <div className="cover-gallery">
         <div className="museum-frame cover-hero">
-          <img src="/me.jpg" alt="Photo of me" />
+          <img src="/home/daniel.jpg" alt="Photo of me" />
           <p className="text-xs text-gray-500 mt-2">Exhibit A: Me</p>
         </div>
 
         <div className="cover-grid">
           <div className="museum-frame">
-            <img src="/interests.jpg" alt="Things that represent me" />
+            <img src="/home/comp.webp" alt="Things that represent me" />
             <p className="text-xs text-gray-500 mt-2">
-              Exhibit B: Things That Represent Me
+              Exhibit B: Computer
             </p>
           </div>
 
           <div className="museum-frame">
-            <img src="/photo-2.jpg" alt="Another moment that represents me" />
+            <img src="/home/code.webp" alt="Another moment that represents me" />
             <p className="text-xs text-gray-500 mt-2">
-              Exhibit C: A Moment That Shaped Me
+              Exhibit C: Coding
             </p>
           </div>
         </div>
