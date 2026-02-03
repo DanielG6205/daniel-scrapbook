@@ -5,96 +5,89 @@ export default function Interview() {
       <h1>Parent Interview</h1>
 
       <p>
-        I interviewed one of my parents to gain insight into my cognitive, social,
-        and moral development, as well as to better understand their parenting
-        style and how it differed from the way they were raised.
+        I interviewed my Dad.
       </p>
+      <img
+        src="/dad.jpg"
+        alt="A picture of my Dad"
+        className="my-8 mx-auto max-h-96 object-contain">
+      </img>
 
       <div className="event">
-        <h3>Q: What was I like as a young child?</h3>
+        <h3>What was I like as a young child?</h3>
         <p>
-          A: You were very curious and energetic. You liked to explore everything
-          around you and were not afraid to touch, test, or take things apart.
+          You were very curious and energetic, but you did not listen to us. You didnt really follow the rules.
         </p>
       </div>
 
       <div className="event">
-        <h3>Q: Did my curiosity ever get me into trouble?</h3>
+        <h3>Did my curiosity ever get me into trouble?</h3>
         <p>
-          A: Yes, quite often. You sometimes broke things because you wanted to
-          figure out how they worked, not because you were trying to be naughty.
+          It got you into trouble too much. You sometimes broke things because you wanted to
+          figure out how they worked. Sometimes your creativity also was dangerous. 
         </p>
       </div>
 
       <div className="event">
-        <h3>Q: How did I usually respond when I got in trouble?</h3>
+        <h3>How did I usually respond when I got in trouble?</h3>
         <p>
-          A: At first you were focused on the consequences, but once we explained
-          why something was wrong, you understood quickly and adjusted your
-          behavior.
+          You didnt really care about getting in trouble. You shrugged it off fast, and always got into toruble again.
         </p>
       </div>
 
       <div className="event">
-        <h3>Q: How would you describe my thinking and problem-solving skills?</h3>
+        <h3>How would you describe my thinking and problem-solving skills?</h3>
         <p>
-          A: You preferred learning by doing. You learned best through trial and
-          error and liked figuring things out on your own rather than being given
+          You preferred learning by doing. You liked figuring things out on your own rather than being given
           answers.
         </p>
       </div>
 
       <div className="event">
-        <h3>Q: How did my social development change as I grew older?</h3>
+        <h3>How did my social development change as I grew older?</h3>
         <p>
-          A: You were independent and sometimes stubborn when you were younger,
-          but over time you became more cooperative and comfortable working with
-          others, especially on shared goals.
+          You were independent and very stubborn when you were younger,
+          but as you grew, you became more cooperative.
         </p>
       </div>
 
       <div className="event">
-        <h3>Q: How did my sense of right and wrong develop?</h3>
+        <h3>How did my sense of right and wrong develop?</h3>
         <p>
-          A: When you were younger, you cared mostly about rules and punishment.
-          As you got older, you started thinking more about fairness and how your
-          actions affected other people.
+          When you were younger, you only cared about yourself. As you grew older, you understood why rules existed
+          and started considering how your actions affected others.
         </p>
       </div>
 
       <div className="event">
-        <h3>Q: When did you notice me becoming more responsible?</h3>
+        <h3>When did you notice me becoming more responsible?</h3>
         <p>
-          A: We noticed it when you began taking leadership roles and helping
-          others. You started thinking ahead and taking responsibility for
-          outcomes, not just tasks.
+          We noticed it when you began taking leadership roles and helping
+          others.
         </p>
       </div>
 
       <div className="event">
-        <h3>Q: How would you describe your parenting style?</h3>
+        <h3>How would you describe your parenting style?</h3>
         <p>
-          A: Supportive but structured. We set clear expectations while allowing
-          you room to explore, make mistakes, and learn from them.
+          We set expectations for your learning. We encouraged your curiosity. We had a strict parenting style.
         </p>
       </div>
 
       <div className="event">
         <h3>
-          Q: How was your parenting style different from how your parents raised
+          How was your parenting style different from how your parents raised
           you?
         </h3>
         <p>
-          A: My parents were stricter and focused more on obedience. With you, we
-          focused more on communication and explaining the reasons behind rules.
+          My parents were less strict because I had self-control.
         </p>
       </div>
 
       <div className="event">
-        <h3>Q: What values did you most want to teach me?</h3>
+        <h3>What values did you most want to teach me?</h3>
         <p>
-          A: Curiosity, responsibility, integrity, and perseverance — and how to
-          use your abilities in positive and meaningful ways.
+          Learning is the most important thing. Make sure you learn well.
         </p>
       </div>
 

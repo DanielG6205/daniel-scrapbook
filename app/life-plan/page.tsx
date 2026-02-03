@@ -6,8 +6,8 @@ export default function LifePlan() {
 
       <p>
         In ten years, I envision myself navigating Erikson’s stage of Intimacy
-        vs. Isolation by forming meaningful relationships while pursuing a
-        fulfilling career.
+        vs. Isolation by finding friends while pursuing a
+        job.
       </p>
 
       <div className="event">
@@ -16,8 +16,7 @@ export default function LifePlan() {
           Erikson: Intimacy vs. Isolation
         </p>
         <p>
-          I plan to pursue a career that allows me to grow intellectually while
-          contributing positively to society.
+          I plan to pursue a career that allows me to learn while helping others.
         </p>
       </div>
 
@@ -27,8 +26,7 @@ export default function LifePlan() {
           Lifelong Learning & Identity Development
         </p>
         <p>
-          I hope to continue learning, reflecting, and adapting as I encounter
-          new challenges and opportunities.
+          I hope to continue learning and adapting as technology advances.
         </p>
       </div>
 
