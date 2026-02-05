@@ -26,7 +26,7 @@ export default function RootLayout({
         </main>
 
         <footer className="site-footer">
-          © 2024 Daniel&apos;s Scrapbook
+          © 2026 Daniel&apos;s Scrapbook
         </footer>
       </body>
     </html>
